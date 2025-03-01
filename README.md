@@ -1,4 +1,4 @@
-# 👋 Hi, I’m MrPsykick
+# 👋 Hi, I’m Akhilesh Ganvir MrPsykick
 
 Welcome to my GitHub profile! I'm a developer with a robust interest in creating impactful technology solutions.
 I have a strong inclination towards learning and mastering new technologies.
